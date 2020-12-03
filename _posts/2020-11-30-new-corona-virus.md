@@ -27,8 +27,4 @@ High-order function:一个函数的某个参数是另一个函数
 
 
 
-呵呵
-
-**nin<sup>x</sup>e koronuan<sup>g</sup> viru<sup>d</sup>**
-
 哈哈
