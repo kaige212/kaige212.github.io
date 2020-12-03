@@ -2,7 +2,7 @@
 layout:     post
 title:      张凯的python学习
 subtitle:   Let's 嗬嗬嗬嗬嗬嗬嗬嗬嗬.
-date:       2020-11
+date:       2020-11-30
 author:     Kaige
 header-img: img/post-bg-coronavirus.jpg
 catalog:    false
