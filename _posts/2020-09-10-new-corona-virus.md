@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      张凯张凯张凯?
+title:      张凯的python学习
 subtitle:   Let's 嗬嗬嗬嗬嗬嗬嗬嗬嗬.
-date:       2020-11-30
+date:       2020-11
 author:     Kaige
 header-img: img/post-bg-coronavirus.jpg
 catalog:    false
@@ -10,11 +10,19 @@ tags:
     - Language Tips
 ---
 
-W New research suggests huge floods once flowed through an area on Mars. Scientists say the finding could be a new sign that the planet may have once had the right conditions to support some form of life.
-
-The evidence comes from data collected by NASA's Curiosity rover, an exploration vehicle. Curiosity landed on Mars in 2012 and has been exploring the planet's Gale Crater ever since. Scientists believe Gale Crater was formed when a meteor hit Mars in its early history, about 3.5 to 3.8 billion years ago.
-
-Scientists have already collected evidence suggesting that Mars once had a lot of water. In 2015, NASA's Curiosity team said the rover had gathered evidence showing that the Red Planet could have stored water in large lakes billions of years ago.
+函数式编程：归根结底是面向过程的。Functional Programming。语言越低级，抽象越少，越接近计算机，从而也更快，效率更好，比如说C，编写底层，编写OS。
+    函数式编程特点：允许把函数本身作为参数传入到另一个函数，还允许返回另一个函数。
+    纯粹的函数式编程没有变量，输入确定则输出确定，这种纯函数我们称之为没有副作用。而python对函数式编程提供部分支持，但是python允许使用变量，所以python不是纯函数式编程语言。
+High-order function:一个函数的某个参数是另一个函数
+    函数本身可以赋值给变量，因为函数名本质上也是一个变量，是指用指针指向特定的函数。所以函数名可以重新被命名。
+    变量可以指向函数，一个函数可以作为另一个函数的参数
+    iterator是惰性序列，这个我理解了！！！！
+    我要自己学最基础单元、元素、个体，然后按照自己想的方式去组合，这样更会变成是我的知识，与我结合的更密切的知识，我更加会操用的知识。
+    map函数：返回值是迭代器iterator，参数一：函数。参数二：可迭代对象iteratal
+    reduce函数：返回值是计算后的一个具体的结果
+    filter函数：顾名思义，过滤掉某些数。参数一：函数。参数二：可迭代对象。返回值：过滤剩下的组成的iterator。
+    高阶函数的抽象能力非常强大，可以使得核心代码表达的很简洁。能够设计出语义特别好、能够被广泛使用的高阶函数的人是好的！我认为这就像一个有智慧的领导在某些层面上把命令、任务下达的非常有效，适用性             非常广。别人执行的时候就会很清楚自己的任务，领导也可以有更多多余的精力来处理别的地盘上的事物，从而纵观全局，从战略上取胜。如果命令不明确，下面执行着总要问这问那，很不清晰还容易出错。下面也干的不是很好，领导也还要继续分出一部分精力来处理这些。所以，智慧、科学可以提高效率。但是提高了效率之后就歇着了吗？不行，还要继续扩展别的层面，这样才会有更加全局广阔的大业！而且以此为乐，以此为己任，以此为目标，以此为志向，生命才更有意义！
+    sorted函数更好理解了！
 
 **nine koronuan viru**
 
