@@ -4,7 +4,7 @@ title:      python学习
 subtitle:   继续函数的学习
 date:       2020-12-04
 author:     凯哥
-header-img: img/post-bg-alibaba.jpg
+header-img: img/205524-1566651324f88b.jpg
 catalog: true
 tags:
     - python study
