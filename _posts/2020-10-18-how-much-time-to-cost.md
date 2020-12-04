@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      python函数学习
-subtitle:   设计目标：半天入门，一月掌握，两年精通
-date:       2019-10-18
+title:      python学习
+subtitle:   继续函数的学习
+date:       2020-12-04
 author:     凯哥
 header-img: img/post-bg-alibaba.jpg
 catalog: true
